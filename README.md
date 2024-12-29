@@ -31,3 +31,12 @@ This repository contains my solutions to the projects developed during the cours
 
 ### Day 10 - Functions with Outputs
 - [Day 10 Project: Calculator](https://github.com/sarabrolhato/100-days-of-code-projects/tree/main/day10)
+
+### Day 11 - The Blackjack Capstone Project
+- [Day 11 Project: Blackjack](https://github.com/sarabrolhato/100-days-of-code-projects/tree/main/day11)
+
+### Day 12 - Scope & Number Guessing Game
+- [Day 12 Project: The Number Guessing Game](https://github.com/sarabrolhato/100-days-of-code-projects/tree/main/day12)
+
+### Day 13 - Debugging: How to Find and Fiz Errors in your Code
+- [Day 13 - Debugging: How to Find and Fiz Errors in your Code](https://github.com/sarabrolhato/100-days-of-code-projects/tree/main/day13)
