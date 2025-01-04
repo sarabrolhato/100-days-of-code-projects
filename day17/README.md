@@ -1,5 +1,5 @@
 ### Day 17 - The Quiz Project and the Benefits of OPP
-- Day 16 Project: Geography Quiz using the Open Trivia Database API
+- Day 17 Project: Geography Quiz using the Open Trivia Database API
 
 ### Day 17 Resources
 - [Open Trivia Database](https://opentdb.com/)
