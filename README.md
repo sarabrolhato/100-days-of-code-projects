@@ -40,3 +40,30 @@ This repository contains my solutions to the projects developed during the cours
 
 ### Day 13 - Debugging: How to Find and Fiz Errors in your Code
 - [Day 13 - Debugging: How to Find and Fiz Errors in your Code](https://github.com/sarabrolhato/100-days-of-code-projects/tree/main/day13)
+
+### Day 14 - Higher Lower Game Project
+- [Day 14 Project: Higher Lower Game](https://github.com/sarabrolhato/100-days-of-code-projects/tree/main/day14)
+
+### Day 15 - Local Development Environment Setup & the Coffee Machine
+- [Day 15 Project: Coffee Machine](https://github.com/sarabrolhato/100-days-of-code-projects/tree/main/day15)
+
+### Day 16 - Object Oriented Programming (OOP)
+- [Day 16 Project: Building the Coffee Machine with Object Oriented Programming (OOP)](https://github.com/sarabrolhato/100-days-of-code-projects/tree/main/day16)
+
+### Day 17 - The Quiz Project & the Benefits of OOP
+- [Day 17 Project: Quiz](https://github.com/sarabrolhato/100-days-of-code-projects/tree/main/day17)
+
+### Day 18 - Turtle & the Graphical User Interface (GUI)
+- [Day 18 Project - The Hirst Painting Project](https://github.com/sarabrolhato/100-days-of-code-projects/tree/main/day18)
+
+### Day 19 - Intermediate Instances, State and Higher Order Functions
+- [Day 19 Project - The Turtle Racing Game](https://github.com/sarabrolhato/100-days-of-code-projects/tree/main/day19)
+
+### Day 20 - Build the Snake Game Part 1: Animation & Coordinates
+- [Day 20 Project: The Snake Game - Part 1](https://github.com/sarabrolhato/100-days-of-code-projects/tree/main/day20)
+
+### Day 21 - Build the Snake Game Part 2: Inheritance & List Slicing
+- [Day 20 Project: The Snake Game - Part 2](https://github.com/sarabrolhato/100-days-of-code-projects/tree/main/day21)
+
+### Day 22 - Build Pong: The Famous Arcade Game
+- [Day 22 Project: Pong](https://github.com/sarabrolhato/100-days-of-code-projects/tree/main/day22)
