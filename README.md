@@ -67,3 +67,7 @@ This repository contains my solutions to the projects developed during the cours
 
 ### Day 22 - Build Pong: The Famous Arcade Game
 - [Day 22 Project: Pong](https://github.com/sarabrolhato/100-days-of-code-projects/tree/main/day22)
+
+### Day 23 - The Turtle Crossing Capstone Project
+- [Day 23 Project - The Turtle Crossing Game](https://github.com/sarabrolhato/100-days-of-code-projects/tree/main/day23)
+
