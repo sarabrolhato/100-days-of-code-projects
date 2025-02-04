@@ -71,3 +71,8 @@ This repository contains my solutions to the projects developed during the cours
 ### Day 23 - The Turtle Crossing Capstone Project
 - [Day 23 Project - The Turtle Crossing Game](https://github.com/sarabrolhato/100-days-of-code-projects/tree/main/day23)
 
+### Day 24 - Files, Directories and Paths
+- [Day 24 Project - The Mail Merge Challenge](https://github.com/sarabrolhato/100-days-of-code-projects/tree/main/day24)
+
+### Day 25 - Working with CSV Data and the Pandas Library
+- [Day 25 Project - The U.S. States Game](https://github.com/sarabrolhato/100-days-of-code-projects/tree/main/day25)
