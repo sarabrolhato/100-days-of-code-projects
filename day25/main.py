@@ -27,7 +27,7 @@ while score < 50:
         data = pd.read_csv(file)
 
     # Ask for user input
-    answer_state = screen.textinput(title=f"{score}/0 States Guessed", prompt="What's another state's name?").title()
+    answer_state = screen.textinput(title=f"{score}/50 States Guessed", prompt="What's another state's name?").title()
 
     # Secret word for ending the game
     if answer_state == "Exit":
