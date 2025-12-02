@@ -76,3 +76,6 @@ This repository contains my solutions to the projects developed during the cours
 
 ### Day 25 - Working with CSV Data and the Pandas Library
 - [Day 25 Project - The U.S. States Game](https://github.com/sarabrolhato/100-days-of-code-projects/tree/main/day25)
+
+### Day 26 - List Comprehension and the NATO Alphabet
+- [Day 25 Project - The NATO Alphabet Project](https://github.com/sarabrolhato/100-days-of-code-projects/tree/main/day26)
